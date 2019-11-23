@@ -1,0 +1,13 @@
+#EXTM3U
+
+
+
+
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/95/59/60/20417256.jpg" group-title="AVENTURA",HARRY POTTER 1: E A PEDRA FILOSOFAL
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR01.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7FS6GqR1AhYfFSapHfFeFwRY-qaX_x0psgXsP8CUzrozAW0YL" group-title="AVENTURA",HARRY POTTER 2: E A CÂMARA SECRETA
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR02.mp4?attachment=true
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSlv_B9hHrOYasoxBmjBSM3JobQ8gLP_cs7pLMa0fzl_1GfQmJJ" group-title="AVENTURA",HARRY POTTER 3: E O PRISIONEIRO DE AZKABAN
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HRYPTR03.mp4?attachment=true
